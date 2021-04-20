@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		 <title>Cadastro Cliente</title>
+	</head>
+
+	<body style=background-color:#0E4F1C>
+		<font face="verdana" color=white> <center>
+			<h1>  CADASTRO USUÁRIO  </h1>
+			 
+			<table>
+			
+				<th> <label> NOME: <input name="name"/> </label> </th> <!-- le nome usuário -->
+			
+				<th> <label> E-MAIL: <input name="email"/> </label>  </th>   <!-- le email usuário -->
+			
+				<th> <label> TELEFONE: <input name="telefone" /> </label>   </th>     <!-- le telefone usuário -->
+			
+				<th> <label> ENDEREÇO: <input name=address/> </label>    </th>   <!-- le endereço usuário -->
+			
+			</table> 
+			
+			</br> <button name="button">CONFIRMAR CADASTRO</button> 
+			 </center>
+		</font>
+	</body>
+
+</html>
